@@ -2,7 +2,7 @@
 
 I am a full-stack web developer currently living and working in sunny South Africa. 
 
-🔭 In my free time I’m working on [jethromay.com](https://jethromay.com), adding new features and writing articles.
+🔭 In my free time I’m working on [jethromay.com](https://jethromay.com), adding new features and writing educational articles.
 
 🌱 I’m currently learning [Go](https://golang.org/) and TDD in [Laravel](https://laravel.com/).
 
