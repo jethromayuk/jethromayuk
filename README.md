@@ -4,8 +4,12 @@ I am a full-stack web developer currently living and working in sunny South Afri
 
 My go-to technologies include [Laravel](https://laravel.com/), [Livewire](https://laravel-livewire.com/), [AlpineJS](https://github.com/alpinejs/alpine/) and [Tailwind](https://tailwindcss.com/) but I am also a firm believer in keeping it simple, utilizing regular HTML5, CSS3 and JavaScript as much as possible. 
 
-🔭&nbsp;&nbsp;In my free time I’m working on [jethromay.com](https://jethromay.com), writing new posts as well as constantly upskilling myself.
+In my free time I’m working on [jethromay.com](https://jethromay.com), writing new posts as well as constantly upskilling myself.
 
-🌱&nbsp;&nbsp;I’m currently learning [Go](https://golang.org/).
+### Latest Posts:
 
-📫&nbsp;&nbsp;For casual questions its best to contact me on [Twitter](https://twitter.com/may_jethro) otherwise you can email me at <hello@jethromay.com>.
+[Get Down With Markdown](https://jethromay.com/posts/get-down-with-markdown/)
+
+[Migrating My Website To Hugo](https://jethromay.com/posts/migrating-my-website-to-hugo/)
+
+For casual questions its best to contact me on [Twitter](https://twitter.com/may_jethro) otherwise you can email me at <hello@jethromay.com>.
