@@ -4,7 +4,7 @@ I am a full-stack web developer currently living and working in sunny South Afri
 
 My go-to technologies include [Laravel](https://laravel.com/), [Livewire](https://laravel-livewire.com/), [AlpineJS](https://github.com/alpinejs/alpine/) and [Tailwind](https://tailwindcss.com/) but I am also a firm believer in keeping it simple, utilizing regular HTML5, CSS3 and JavaScript as much as possible. 
 
-🔭&nbsp;&nbsp;In my free time I’m working on [jethromay.com](https://jethromay.com), adding new features and writing educational articles.
+🔭&nbsp;&nbsp;In my free time I’m working on [jethromay.com](https://jethromay.com), writing new posts as well as constantly upskilling myself.
 
 🌱&nbsp;&nbsp;I’m currently learning [Go](https://golang.org/).
 
