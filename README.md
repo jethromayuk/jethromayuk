@@ -12,5 +12,3 @@ In my free time, I’m working on [jethromay.com](https://jethromay.com), where 
 - [Migrating My Website To Hugo](https://jethromay.com/posts/migrating-my-website-to-hugo/)
 
 For casual questions its best to contact me on [Twitter](https://twitter.com/may_jethro) otherwise you can email me at <hello@jethromay.com>.
-
-![Twitter Follow](https://img.shields.io/twitter/follow/may_jethro?style=social) 
