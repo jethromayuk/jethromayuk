@@ -19,7 +19,7 @@ jobs:
         uses: actions/checkout@master
         with:
           fetch-depth: 1
-      - name: 🍳 Update README
+      - name: 🍳 Shake & bake README
         run: |
           cd ${GITHUB_WORKSPACE}/update/
           go run main.go
