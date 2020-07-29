@@ -5,7 +5,7 @@ on:
     branches:
       - master
   schedule:
-    - cron: '0 11 * * *'
+    - cron: '0 00 * * *'
 
 env:
   RSS_FEEDS: https://jethromay.com/posts/index.xml
@@ -19,7 +19,7 @@ jobs:
         uses: actions/checkout@master
         with:
           fetch-depth: 1
-      - name: 🍳 Shake & bake README
+      - name: 🍳 Update README
         run: |
           cd ${GITHUB_WORKSPACE}/update/
           go run main.go
