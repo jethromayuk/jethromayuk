@@ -11,6 +11,6 @@ For casual questions its best to contact me on [Twitter](https://twitter.com/may
 ### Latest Posts:
 
 
-- ✨ Read my latest blog post: **[Go automate your GitHub profile README](https://victoria.dev/blog/go-automate-your-github-profile-readme/)**
+- ✨ Read my latest blog post: **[Get Down With Markdown](https://jethromay.com/posts/get-down-with-markdown/)**
 
 Last updated by magic on 29 Jul 2020.
