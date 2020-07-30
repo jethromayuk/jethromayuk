@@ -34,7 +34,7 @@ func makeReadme(filename string) error {
 	if err != nil {
 		log.Fatalf("error getting feed: %v", err)
 	}
-	// Get the freshest item
+	// Get latest items
 	rssItem := feed.Items[0]
 
 	// Unwrap Markdown content
@@ -47,19 +47,18 @@ func makeReadme(filename string) error {
 
 	date := time.Now().Format("2 Jan 2006")
 
-	// Whisk together static and dynamic content until stiff peaks form
+	// Combine static and dymanic content
 	blog := "- ✨ Read my latest blog post: **[" + rssItem.Title + "](" + rssItem.Link + ")**"
 	updated := "Last updated on " + date + "."
 	data := fmt.Sprintf("%s%s\n\n%s\n", stringyContent, blog, updated)
 
-	// Prepare file with a light coating of os
+	// Prepare file 
 	file, err := os.Create(filename)
 	if err != nil {
 		return err
 	}
 	defer file.Close()
 
-	// Bake at n bytes per second until golden brown
 	_, err = io.WriteString(file, data)
 	if err != nil {
 		return err
