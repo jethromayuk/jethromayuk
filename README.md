@@ -13,4 +13,4 @@ For casual questions its best to contact me on [Twitter](https://twitter.com/may
 
 - ✨ Read my latest blog post: **[Get Down With Markdown](https://jethromay.com/posts/get-down-with-markdown/)**
 
-Last updated on 1 Aug 2020.
+Last updated on 2 Aug 2020.
