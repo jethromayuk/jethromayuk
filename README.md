@@ -11,6 +11,6 @@ For casual questions its best to contact me on [Twitter](https://twitter.com/may
 ### Latest Posts:
 
 
-- ✨ Read my latest blog post: **[Get Down With Markdown](https://jethromay.com/posts/get-down-with-markdown/)**
+- ✨ Read my latest blog post: **[8 HTML Elements You Might Not Know About](https://jethromay.com/posts/8-html-elements-you-might-not-know-about/)**
 
-Last updated on 2 Aug 2020.
+Last updated on 3 Aug 2020.
