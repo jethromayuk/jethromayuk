@@ -1,6 +1,6 @@
 ## Hey, I'm Jethro. 👋
 
-I am a full-stack web developer currently living and working in sunny South Africa. 
+I am a full-stack PHP developer currently living and working in sunny South Africa. 
 
 My go-to technologies include [Laravel](https://laravel.com/), [Livewire](https://laravel-livewire.com/), [AlpineJS](https://github.com/alpinejs/alpine/) and [Tailwind](https://tailwindcss.com/) but I am also a firm believer in keeping it simple, utilizing regular HTML5, CSS3 and JavaScript as much as possible. 
 
