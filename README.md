@@ -13,4 +13,4 @@ For casual questions its best to contact me on [Twitter](https://twitter.com/may
 
 - ✨ Read my latest blog post: **[8 HTML Elements You Might Not Know About](https://jethromay.com/posts/8-html-elements-you-might-not-know-about/)**
 
-Last updated on 10 Oct 2020.
+Last updated on 11 Oct 2020.
