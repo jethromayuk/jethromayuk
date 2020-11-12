@@ -13,4 +13,4 @@ For casual questions its best to contact me on [Twitter](https://twitter.com/may
 
 - ✨ Read my latest blog post: **[Getting Started With Version Control](https://jethromay.com/posts/getting-started-with-version-control/)**
 
-Last updated on 11 Nov 2020.
+Last updated on 12 Nov 2020.
