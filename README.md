@@ -6,11 +6,11 @@ My go-to technologies include [Laravel](https://laravel.com/), [Livewire](https:
 
 In my free time, I’m working on [jethromay.com](https://jethromay.com), where I write tech-related tutorials on various topics. When I am not working on that, I am upskilling myself.
 
-For casual questions its best to contact me on [Twitter](https://twitter.com/jethromay91) otherwise you can email me at <hello@jethromay.com>.
+For casual questions its best to contact me on [Twitter](https://twitter.com/may_jethro) otherwise you can email me at <hello@jethromay.com>.
 
 ### Latest Posts:
 
 
 - ✨ Read my latest blog post: **[Getting Started With Version Control](https://jethromay.com/posts/getting-started-with-version-control/)**
 
-Last updated on 2 Dec 2020.
+Last updated on 3 Dec 2020.
