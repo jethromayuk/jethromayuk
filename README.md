@@ -11,6 +11,6 @@ For casual questions its best to contact me on [Twitter](https://twitter.com/jet
 ### Latest Posts:
 
 
-- ✨ Read my latest blog post: **[Getting Started With Version Control](https://jethromay.com/posts/getting-started-with-version-control/)**
+- ✨ Read my latest blog post: **[2020 In Review](https://jethromay.com/posts/2020-in-review/)**
 
-Last updated on 1 Jan 2021.
+Last updated on 2 Jan 2021.
