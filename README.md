@@ -15,4 +15,4 @@ For casual questions its best to contact me on [Twitter](https://twitter.com/jet
 
 - ✨ Read my latest blog post: **[2020 In Review](https://jethromay.com/posts/2020-in-review/)**
 
-Last updated on 3 Jul 2021.
+Last updated on 4 Jul 2021.
