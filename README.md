@@ -8,7 +8,7 @@ In my free time, I’m working on [jethromay.com](https://jethromay.com), where 
 
 I am currently learning [Go](https://golang.org/). 🌱
 
-For casual questions its best to contact me on [Twitter](https://twitter.com/jethromay91) otherwise you can email me at <hello@jethromay.com>.
+For casual questions its best to contact me on [Twitter](https://twitter.com/jethromayuk) otherwise you can email me at <hello@jethromay.com>.
 
 ### Latest Posts:
 
