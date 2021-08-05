@@ -8,11 +8,11 @@ In my free time, I’m working on [jethromay.com](https://jethromay.com), where 
 
 I am currently learning [Go](https://golang.org/). 🌱
 
-For casual questions its best to contact me on [Twitter](https://twitter.com/jethromayuk) otherwise you can email me at <hello@jethromay.com>.
+For casual questions its best to contact me on [Twitter](https://twitter.com/jethromay91) otherwise you can email me at <hello@jethromay.com>.
 
 ### Latest Posts:
 
 
-- ✨ Read my latest blog post: **[2020 In Review](https://jethromay.com/posts/2020-in-review/)**
+- ✨ Read my latest blog post: **[Testing Mails Using The Command Line](https://jethromay.com/blog/sending-a-test-mail-from-the-command-line)**
 
-Last updated on 21 Jul 2021.
+Last updated on 5 Aug 2021.
