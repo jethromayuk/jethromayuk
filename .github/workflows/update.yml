@@ -8,7 +8,7 @@ on:
     - cron: '0 11 * * *'
 
 env:
-  RSS_FEEDS: https://jethromay.com/posts/index.xml
+  RSS_FEEDS: https://jethromay.com/rss.xml
 
 jobs:
   build-and-deploy:
