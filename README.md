@@ -15,4 +15,4 @@ For casual questions its best to contact me on [Twitter](https://twitter.com/jet
 
 - ✨ Read my latest blog post: **[Testing Mails Using The Command Line](https://jethromay.com/blog/sending-a-test-mail-from-the-command-line)**
 
-Last updated on 18 Oct 2021.
+Last updated on 19 Oct 2021.
