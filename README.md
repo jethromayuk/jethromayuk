@@ -4,11 +4,11 @@ I am a full-stack web developer currently living and working in sunny South Afri
 
 My go-to technologies include [Laravel](https://laravel.com/), [Livewire](https://laravel-livewire.com/), [AlpineJS](https://github.com/alpinejs/alpine/) and [Tailwind](https://tailwindcss.com/) but I am also a firm believer in keeping it simple, utilizing regular HTML5, CSS3 and JavaScript as much as possible. 
 
-In my free time, I’m working on [jethromay.com](https://jethromay.com), where I write tech-related tutorials on various topics. 
+I recently started my journey into Web 3.0 and I am currently learning [Solidity](https://soliditylang.org/) and related technologies. 🌱
 
-I recently started my journey into Web 3.0 and I am currently learning [Solidity](https://soliditylang.org/). 🌱
+When I have time I write blog posts on my personal website [jethromay.com](https://jethromay.com).
 
-For casual questions its best to contact me on [Twitter](https://twitter.com/jethromayuk) otherwise you can email me at <hello@jethromay.com>.
+If you would like to reach out, its best to contact me on [Twitter](https://twitter.com/jethromayuk).
 
 ### Latest Posts:
 
