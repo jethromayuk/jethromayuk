@@ -6,7 +6,7 @@ My go-to technologies include [Laravel](https://laravel.com/), [Livewire](https:
 
 In my free time, I’m working on [jethromay.com](https://jethromay.com), where I write tech-related tutorials on various topics. 
 
-I am currently learning [Go](https://golang.org/). 🌱
+I recently started my journey into Web 3.0 and I am currently learning Solidity. 🌱
 
 For casual questions its best to contact me on [Twitter](https://twitter.com/jethromayuk) otherwise you can email me at <hello@jethromay.com>.
 
