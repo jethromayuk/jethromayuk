@@ -6,6 +6,8 @@ My go-to technologies include [Laravel](https://laravel.com/), [Livewire](https:
 
 I recently started my journey into Web 3.0 and I am currently learning [Solidity](https://soliditylang.org/) and [Hardhat](https://hardhat.org/). 🌱
 
+When I have time I write blog posts on my personal website [jethromay.com](https://jethromay.com).
+
 If you would like to reach out, its best to contact me on [Twitter](https://twitter.com/jethromayuk).
 
 ### Latest Posts:
@@ -13,4 +15,4 @@ If you would like to reach out, its best to contact me on [Twitter](https://twit
 
 - ✨ Read my latest blog post: **[Simplifying 'Belongs To' Relationship Queries](https://jethromay.com/blog/simplifying-belongs-to-relationship-queries)**
 
-Last updated on 6 Dec 2021.
+Last updated on 7 Dec 2021.
