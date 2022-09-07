@@ -11,4 +11,4 @@ If you would like to reach out, its best to contact me on [Twitter](https://twit
 
 - ✨ Read my latest blog post: **[Simplifying 'Belongs To' Relationship Queries](https://jethromay.dev/blog/simplifying-belongs-to-relationship-queries)**
 
-Last updated on 6 Sep 2022.
+Last updated on 7 Sep 2022.
