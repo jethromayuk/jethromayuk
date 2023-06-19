@@ -8,6 +8,6 @@ If you would like to reach out, its best to contact me on [Twitter](https://twit
 
 ### Latest Posts:
 
-- ✨ Read my latest blog post: **[Simplifying 'Belongs To' Relationship Queries](https://jethromay.com/blog/simplifying-belongs-to-relationship-queries)**
+- ✨ Read my latest blog post: **[Simplifying 'Belongs To' Relationship Queries](https://jethromay.com/articles/simplifying-belongs-to-relationship-queries)**
 
 Last updated on 20 May 2023.
