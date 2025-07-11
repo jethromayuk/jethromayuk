@@ -1,6 +1,6 @@
 ## Hey, I'm Jethro. 👋
 
-I am a senior full-stack developer currently working for [FINN Partners](https://www.finnpartners.com/) in London, United Kingdom. 
+I am a Partner and Head of Development working for [FINN Partners](https://www.finnpartners.com/) in London, United Kingdom. 
 
 My go-to technologies include [Laravel](https://laravel.com/), [Livewire](https://laravel-livewire.com/), [Inertia](https://inertiajs.com/), [AlpineJS](https://alpinejs.dev/) and [Tailwind](https://tailwindcss.com/) but I am also a firm believer in keeping it simple, utilizing regular HTML5, CSS3 and JavaScript as much as possible. 
 
