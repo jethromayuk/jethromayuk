@@ -1,23 +1,20 @@
 ## Hey, I'm Jethro. 👋
 
-I lead global development teams at [FINN Partners UK](https://www.finnpartners.com/) in London, building enterprise WordPress and PHP solutions. I'm passionate about open-source, the Laravel community and AI.
+12+ years in web development. These days I spend as much time in strategy sessions as I do in code — leading engineering teams, scoping enterprise projects, and helping clients turn complex requirements into scalable products. Still deeply technical, still care about doing things properly.
 
 ---
 
 ### 🔭 Currently
 
-- Leading engineering at [FINN Partners UK](https://www.finnpartners.com/) — managing global teams across WordPress and PHP projects
 - Exploring how AI is changing the way we build software
 - Writing about web development at [jethromay.com](https://jethromay.com)
 
 ---
 
-### 🔗 Links
+### 🔗 Find me
 
-- 🌐 [jethromay.com](https://jethromay.com)
 - 💼 [LinkedIn](https://www.linkedin.com/in/jethromay/)
 - 🦋 [Bluesky](https://bsky.app/profile/jethromay.bsky.social)
-- 💻 [GitHub](https://github.com/jethromayuk)
 
 ---
 
