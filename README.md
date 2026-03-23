@@ -25,7 +25,7 @@
 
 ### ✍️ Latest Post
 
-- ✨ **[Simplifying Belongs To Relationship Queries](https://jethromay.com/articles/simplifying-belongs-to-relationship-queries)**
+- ✨ **[What I Actually Use AI For Day-to-Day](https://jethromay.com/articles/what-i-actually-use-ai-for-day-to-day)**
 
 ---
 
