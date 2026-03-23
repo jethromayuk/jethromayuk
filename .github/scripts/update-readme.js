@@ -34,8 +34,13 @@ async function main() {
 
 ### 🔭 Currently
 
-- Exploring how AI is changing the way we build software
-- Writing about web development at [jethromay.com](https://jethromay.com)
+**Building**
+- Internal AI tooling and automations for agency-scale workflows
+- Personal AI projects and experiments using the [Claude API](https://anthropic.com)
+
+**Exploring**
+- Agentic systems and how LLMs fit into real production environments
+- Writing about it at [jethromay.com](https://jethromay.com)
 
 ---
 
