@@ -30,13 +30,32 @@ async function main() {
 
 I lead global development teams at [FINN Partners UK](https://www.finnpartners.com/) in London, building enterprise WordPress and PHP solutions. I'm passionate about open-source, the Laravel community and AI.
 
-If you would like to reach out, its best to contact me on [Bluesky](https://bsky.app/profile/jethromay.bsky.social).
+---
 
-### Latest Posts:
+### 🔭 Currently
 
-- ✨ Read my latest blog post: **[${post.title}](${post.url})**
+- Leading engineering at [FINN Partners UK](https://www.finnpartners.com/) — managing global teams across WordPress and PHP projects
+- Exploring how AI is changing the way we build software
+- Writing about web development at [jethromay.com](https://jethromay.com)
 
-Last updated on ${updated}.
+---
+
+### 🔗 Links
+
+- 🌐 [jethromay.com](https://jethromay.com)
+- 💼 [LinkedIn](https://www.linkedin.com/in/jethromay/)
+- 🦋 [Bluesky](https://bsky.app/profile/jethromay.bsky.social)
+- 💻 [GitHub](https://github.com/jethromayuk)
+
+---
+
+### ✍️ Latest Post
+
+- ✨ **[${post.title}](${post.url})**
+
+---
+
+<p align="right"><sub>Last updated ${updated}</sub></p>
 `
 
   fs.writeFileSync('README.md', readme, 'utf8')
