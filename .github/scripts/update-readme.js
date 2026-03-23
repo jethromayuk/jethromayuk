@@ -28,9 +28,7 @@ async function main() {
 
   const readme = `## Hey, I'm Jethro. 👋
 
-I am a Partner and Head of Development working for [FINN Partners](https://www.finnpartners.com/) in London, United Kingdom.
-
-My go-to technologies include [Laravel](https://laravel.com/), [Livewire](https://laravel-livewire.com/), [Inertia](https://inertiajs.com/), [AlpineJS](https://alpinejs.dev/) and [Tailwind](https://tailwindcss.com/) but I am also a firm believer in keeping it simple, utilizing regular HTML5, CSS3 and JavaScript as much as possible.
+I lead global development teams at [FINN Partners UK](https://www.finnpartners.com/) in London, building enterprise WordPress and PHP solutions. I'm passionate about open-source, the Laravel community and AI.
 
 If you would like to reach out, its best to contact me on [Bluesky](https://bsky.app/profile/jethromay.bsky.social).
 
