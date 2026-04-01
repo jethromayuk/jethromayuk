@@ -7,7 +7,6 @@
 ### 🔭 Currently
 
 **Building**
-- [HygieneScout](hygienescout.co.uk) - UK food hygiene ratings across 600K+ establishments (hygienescout.co.uk)
 - Internal AI tooling and automations for agency-scale workflows
 - Personal AI projects and experiments using the [Claude API](https://anthropic.com)
 
@@ -30,4 +29,4 @@
 
 ---
 
-<p align="right"><sub>Last updated 23 March 2026</sub></p>
+<p align="right"><sub>Last updated 1 April 2026</sub></p>
