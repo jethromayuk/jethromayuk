@@ -7,7 +7,7 @@
 ### 🔭 Currently
 
 **Building**
-- [HygieneScout](https://hygienescout.co.uk) — a programmatic SEO site indexing 600K+ UK food hygiene ratings, with rating history tracking, town rankings, and daily updates from FSA open data 
+- [HygieneScout](https://hygienescout.co.uk) — 600K+ UK food hygiene ratings, updated daily 
 - Internal AI tooling and automations for agency-scale workflows
 - Personal AI projects and experiments using the [Claude API](https://anthropic.com)
 
