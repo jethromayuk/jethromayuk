@@ -7,6 +7,7 @@
 ### 🔭 Currently
 
 **Building**
+- [AuditZap](https://auditzap.io) — AI-powered website audits with CMS-specific fix instructions
 - [HygieneScout](https://hygienescout.co.uk) — 600K+ UK food hygiene ratings, updated daily 
 - Internal AI tooling and automations for agency-scale workflows
 - Personal AI projects and experiments using the [Claude API](https://anthropic.com)
