@@ -8,7 +8,7 @@
 
 **Building**
 - [AuditZap](https://auditzap.io) — AI-powered website audits with CMS-specific fix instructions
-- [HygieneScout](https://hygienescout.co.uk) — 600K+ UK food hygiene ratings, updated daily 
+- [HygieneScout](https://hygienescout.co.uk) — 600K+ UK food hygiene ratings, updated daily
 - Internal AI tooling and automations for agency-scale workflows
 - Personal AI projects and experiments using the [Claude API](https://anthropic.com)
 
@@ -27,8 +27,8 @@
 
 ### ✍️ Latest Post
 
-- ✨ **[What I Actually Use AI For Day-to-Day](https://jethromay.com/articles/what-i-actually-use-ai-for-day-to-day)**
+- ✨ **[I Built and Launched AuditZap](https://jethromay.com/articles/i-built-and-launched-auditzap)**
 
 ---
 
-<p align="right"><sub>Last updated 1 April 2026</sub></p>
+<p align="right"><sub>Last updated 12 April 2026</sub></p>
